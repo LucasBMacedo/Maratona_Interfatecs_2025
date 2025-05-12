@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fonteoriginal {
+public class fonteOriginal {
 	
 	public static void main(String[] args) {
 		
