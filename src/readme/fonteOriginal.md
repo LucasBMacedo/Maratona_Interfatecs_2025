@@ -1,3 +1,4 @@
+---
 📌 Título: Problema da Fonte
 🏁 Evento: Maratona InterFatecs 2025
 👨‍💻 Autor: Lucas Bezerra de Macedo
